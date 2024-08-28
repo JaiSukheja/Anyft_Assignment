@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  web:
+    build: ./client
+    ports:
+      - 5173:5173
+  api:
+    build: ./websocketserver
+    ports:
+      - 8000:8000
