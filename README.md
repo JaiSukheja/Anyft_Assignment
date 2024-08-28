@@ -13,6 +13,7 @@
 - Clone the repository
 - Run `docker-compose up` in the root directory
 - Open `http://localhost:5173` in your browser
+- You can reload the page to connect to the server again.
 
 
 ## Preview: 
